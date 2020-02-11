@@ -12,6 +12,21 @@ dimwishlist:item=3027844941&perks=194952921,1687452232,280464955,1890422124,3841
 dimwishlist:item=3027844941&perks=194952922,1687452232,280464955,1890422124,384158423
 dimwishlist:item=3027844941&perks=194952923,1687452232,280464955,1890422124,384158423
 
+// Shadowkeep Weapons
+/////////////////////
+
+// [Love and Death](https://www.light.gg/db/items/3690523502)
+// Barrel: [Volatile Launch](https://www.light.gg/db/items/1478423395), [Confined Launch](https://www.light.gg/db/items/1844523823)
+// Mag: [Spike Grenades](https://www.light.gg/db/items/3301904089)
+// Perk 1: [Field Prep](https://www.light.gg/db/items/2869569095)
+// Perk 2: [Full Court](https://www.light.gg/db/items/2888557110)
+// Masterwork: [Blast Radius Masterwork](https://www.light.gg/db/items/3803457565)
+// Use Boss Spec
+// From [Fallout Plays: "Best New Grenade Launcher: LOVE AND DEATH (Destiny 2 Shadowkeep)"](https://www.youtube.com/watch?v=-MtObH1jQdI). Confined Launch has been added for the 2nd best Blast Radius value.
+// For PvE
+dimwishlist:item=3690523502&perks=1478423395,3301904089,2869569095,2888557110,3803457565
+dimwishlist:item=3690523502&perks=1844523823,3301904089,2869569095,2888557110,3803457565
+
 
 
 // Season of Dawn Weapons:
