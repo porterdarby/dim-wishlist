@@ -1,3 +1,18 @@
+//[Enrentil FR4](https://www.light.gg/db/items/3027844941)
+// Scope: [Signal MS5](https://www.light.gg/db/items/194952923), [Impulse MS3](https://www.light.gg/db/items/194952922), or [Transmission MS7](https://www.light.gg/db/items/194952921)
+// Battery: [Liquid Coils](https://www.light.gg/db/items/1687452232)
+// Perk 1: [Firmly Planted](https://www.light.gg/db/items/280464955)
+// Perk 2: [Backup Plan](https://www.light.gg/db/items/1600092898) or [Tap the Trigger](https://www.light.gg/db/items/1890422124)
+// Masterwork: [Stability](https://www.light.gg/db/items/384158423)
+// The scope is for increased zoom, since the erentil has pretty good range anyways. Liquid Coils is for extra damage, since the charge time with Backup Plan is so quick. Tap the Trigger and Backup plan are both there for stability.
+dimwishlist:item=3027844941&perks=194952921,1687452232,280464955,1600092898,384158423
+dimwishlist:item=3027844941&perks=194952922,1687452232,280464955,1600092898,384158423
+dimwishlist:item=3027844941&perks=194952923,1687452232,280464955,1600092898,384158423
+dimwishlist:item=3027844941&perks=194952921,1687452232,280464955,1890422124,384158423
+dimwishlist:item=3027844941&perks=194952922,1687452232,280464955,1890422124,384158423
+dimwishlist:item=3027844941&perks=194952923,1687452232,280464955,1890422124,384158423
+
+
 // [Jack Queen King] ((https://www.light.gg/db/items/410996590)
 // Goal here is to have high handling. The sights are the only ones with double-digit handling values, and the mag options are for utility (Ricochet Rounds is good at completing engagements, High Caliber Rounds does flinch).
 // Sights: [Fastdraw HCS](https://www.light.gg/db/items/1926090094), [Steadyhand HCS](https://www.light.gg/db/items/1926090095)
